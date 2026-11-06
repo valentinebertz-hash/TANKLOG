@@ -1,0 +1,3 @@
+TANKLOG 1.4: Alle drei Icons verwenden dasselbe moderne Auto-/Tacho-Logo.
+Alle Dateien einschließlich icons/ nach GitHub hochladen und vorhandene Dateien ersetzen.
+Bei bereits installierter App ggf. Startbildschirm-Verknüpfung entfernen und neu hinzufügen; vorher Daten als Backup exportieren.
